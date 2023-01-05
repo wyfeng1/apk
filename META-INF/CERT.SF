@@ -1,0 +1,120 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: QUW+SKKD1wgxMi9+rwtyvXG4vUDZm0GNKQ4vDwzQs5A=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: JlJRbAu6b6VpFwK8jdkyf8wjUyDEOkueN5maD5H/yko=
+
+Name: assets/UnityServicesProjectConfiguration.json
+SHA-256-Digest: +vDK6f/vAaXgmtlhAsvMNooVm0ulRqVFbR9I46oagoI=
+
+Name: assets/bin/Data/Managed/Metadata/global-metadata.dat
+SHA-256-Digest: x0xhPZ0SxtSnS4IKtstc9HDwnZ8tFTvDd3KxsWwhdtc=
+
+Name: assets/bin/Data/Managed/Resources/Newtonsoft.Json.dll-resources.
+ dat
+SHA-256-Digest: Dnpf9+uHVic4XmlPbghQV6Cmfo5RGCAJfSUFasYqtaE=
+
+Name: assets/bin/Data/Managed/Resources/System.Data.dll-resources.dat
+SHA-256-Digest: SQ+ObneIc2jF05ljX5Kww+kD6kiuPTkWfHpgR9L/3TM=
+
+Name: assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat
+SHA-256-Digest: YDrQxP+U0yOIvIJbkgQiTKYFz7XPWoekRyh24ezbP20=
+
+Name: assets/bin/Data/RuntimeInitializeOnLoads.json
+SHA-256-Digest: MXSo7i+1qLG8Gzf92GmDBElPdEHlFqyBBRZoIAOPb7w=
+
+Name: assets/bin/Data/ScriptingAssemblies.json
+SHA-256-Digest: Psemi3FkboHt8BCA54E2edPA5hlUJj8b2gqtyzDl+7E=
+
+Name: assets/bin/Data/boot.config
+SHA-256-Digest: I68OS5NRDlC0zYYL1FlAwp7qa8g7WZATSey2XGy4M8g=
+
+Name: assets/bin/Data/data.unity3d
+SHA-256-Digest: xkeiUifkXxcXmR5awGdOBTz0Ugc7CSN8aZcqYqLKvNg=
+
+Name: assets/bin/Data/sharedassets0.resource
+SHA-256-Digest: bOP2/TbUv7SAsWSOGFHhfNo+yeb8Gz+07yS31wH4vWc=
+
+Name: assets/bin/Data/sharedassets1.resource
+SHA-256-Digest: kVDp3lK65c9e9n1mB70eDEtJ90mZ2lUH1oKcZE+8vfY=
+
+Name: assets/bin/Data/unity default resources
+SHA-256-Digest: HLezBoaBx8+vdBr+UDohDg0GLCud/oG4GxiSSAnYvd0=
+
+Name: assets/bin/Data/unity_app_guid
+SHA-256-Digest: EdaEqkNVNorTRvB8qn5YhpolzCOXLxCB7mPlCAHUG68=
+
+Name: classes.dex
+SHA-256-Digest: JOQi7avlt70QOcdJSgBGmBjL8+UywLBLbd+VNcqvE+s=
+
+Name: lib/arm64-v8a/libAndroidCpuUsage.so
+SHA-256-Digest: bZuD0qFRbw8ouL1tb4oFfTA9cY1n4LpxF4+zZuu3sNk=
+
+Name: lib/arm64-v8a/lib_burst_generated.so
+SHA-256-Digest: xy7GZ145OtMrzZWG1PqR+s17fJx6gMxWEfH8alNGvbM=
+
+Name: lib/arm64-v8a/libil2cpp.so
+SHA-256-Digest: LFrOqr3zBasDurzNf1qFqlGcfcvJ3vlZMMMmSzb2zXE=
+
+Name: lib/arm64-v8a/libmain.so
+SHA-256-Digest: 6dqMdyh/eioaT7LJUf7JJl5PSqw4U2Sl9mT4cee16nE=
+
+Name: lib/arm64-v8a/libunity.so
+SHA-256-Digest: BCjAny/PsiFNrmP6O1p2Of7p9HYv4Rp0qSonpT+UpV0=
+
+Name: lib/armeabi-v7a/libAndroidCpuUsage.so
+SHA-256-Digest: CuMN728gzlC0SYc+93sRQRZgD5fPw7S4G5mFfxkbJ+I=
+
+Name: lib/armeabi-v7a/lib_burst_generated.so
+SHA-256-Digest: aJ0yDB8FNnsxkGtJKG3x9KoD2vE5Hx8Bqyeg0ueHv8I=
+
+Name: lib/armeabi-v7a/libil2cpp.so
+SHA-256-Digest: vrjwAE/te5dEe7V7+nojXQuwOKg0QAHid781dWPABE4=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA-256-Digest: P8+zOqNqN64uP6tCCcdMS9d5PGLGOCVH3GlQX8R2dOE=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA-256-Digest: /fS7qNhcbKTbMhOEAgME+7dLZV8DkdjbZh2XAZRqrYE=
+
+Name: res/mipmap-hdpi-v4/app_icon.png
+SHA-256-Digest: /n9XOGbBCPSU/DyxyeDPZ7/e36l/hI9TZjB7MR/3GL8=
+
+Name: res/mipmap-hdpi-v4/app_icon_round.png
+SHA-256-Digest: tyPseehy19uHnXKftnjKq3MB0CTqJnbBbKKlhuIN9wE=
+
+Name: res/mipmap-ldpi-v4/app_icon.png
+SHA-256-Digest: T7pStvyd5Ly+NtiAKSaNeDY9XVWv0mzRmuhB4N662jg=
+
+Name: res/mipmap-ldpi-v4/app_icon_round.png
+SHA-256-Digest: l8TVkt7DlmOd58HlqOSB/hTYRd7vuOEjEOeNS5ZKeqE=
+
+Name: res/mipmap-mdpi-v4/app_icon.png
+SHA-256-Digest: FUnX46fLk1zCd+hrkJiw+Fv9/kyEr1K5VDbWrQoK9B0=
+
+Name: res/mipmap-mdpi-v4/app_icon_round.png
+SHA-256-Digest: 0Ft5PScOBAOJDjRWFdXsA2LkNJ8aDHiVUxVp5Kqmkkg=
+
+Name: res/mipmap-xhdpi-v4/app_icon.png
+SHA-256-Digest: iPA5P8bhIOPmg7D1hcxiQgJn6uclYWjHjBC5VTfw0ww=
+
+Name: res/mipmap-xhdpi-v4/app_icon_round.png
+SHA-256-Digest: 52jgzoOYzlwXYJs3W8/BdAIKmQ8poXnTnDprI8qbASU=
+
+Name: res/mipmap-xxhdpi-v4/app_icon.png
+SHA-256-Digest: Mdl2wRpg8Ha1kVHMQd1fLlpbskeW/+AmuaeMSkV+Nsw=
+
+Name: res/mipmap-xxhdpi-v4/app_icon_round.png
+SHA-256-Digest: QCUoTlOy9dioDcBfw8HMbjTlO+HV5n3H40qmegiOnlU=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon.png
+SHA-256-Digest: 7gyy2HEEG12KLg6FgB4Oiir02+ABIKBnmNhyzmPkfJQ=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon_round.png
+SHA-256-Digest: EPCla30vYo/I3BHjLLxCiDAK26UcdkX7qW0x7c8RTFY=
+
+Name: resources.arsc
+SHA-256-Digest: BCJGFUq5+21QSNQ8ZFXjcrv+jMZ4RMBh5w48fhcr4mw=
+
