@@ -1,10 +1,10 @@
-.class public final Lcom/wshr/dwsg/R$string;
+.class public final Lcom/xmgb/com/R$string;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/wshr/dwsg/R;
+    value = Lcom/xmgb/com/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;

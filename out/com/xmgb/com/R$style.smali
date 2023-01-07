@@ -1,20 +1,24 @@
-.class public final Lcom/wshr/dwsg/R$id;
+.class public final Lcom/xmgb/com/R$style;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/wshr/dwsg/R;
+    value = Lcom/xmgb/com/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
     accessFlags = 0x19
-    name = "id"
+    name = "style"
 .end annotation
 
 
 # static fields
-.field public static final unitySurfaceView:I = 0x7f010000
+.field public static final BaseUnityTheme:I = 0x7f040000
+
+.field public static final UnityThemeSelector:I = 0x7f040001
+
+.field public static final UnityThemeSelector_Translucent:I = 0x7f040002
 
 
 # direct methods

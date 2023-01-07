@@ -1,14 +1,14 @@
-.class public final Lcom/wshr/dwsg/R;
+.class public final Lcom/xmgb/com/R;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/MemberClasses;
     value = {
-        Lcom/wshr/dwsg/R$id;,
-        Lcom/wshr/dwsg/R$mipmap;,
-        Lcom/wshr/dwsg/R$string;,
-        Lcom/wshr/dwsg/R$style;
+        Lcom/xmgb/com/R$id;,
+        Lcom/xmgb/com/R$mipmap;,
+        Lcom/xmgb/com/R$string;,
+        Lcom/xmgb/com/R$style;
     }
 .end annotation
 
