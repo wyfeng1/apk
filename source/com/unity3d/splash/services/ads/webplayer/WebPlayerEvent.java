@@ -1,0 +1,48 @@
+package com.unity3d.splash.services.ads.webplayer;
+
+public enum WebPlayerEvent
+{
+  static
+  {
+    PAGE_FINISHED = new WebPlayerEvent("PAGE_FINISHED", 1);
+    ERROR = new WebPlayerEvent("ERROR", 2);
+    HTTP_ERROR = new WebPlayerEvent("HTTP_ERROR", 3);
+    PERMISSION_REQUEST = new WebPlayerEvent("PERMISSION_REQUEST", 4);
+    LOAD_RESOUCE = new WebPlayerEvent("LOAD_RESOUCE", 5);
+    SSL_ERROR = new WebPlayerEvent("SSL_ERROR", 6);
+    CLIENT_CERT_REQUEST = new WebPlayerEvent("CLIENT_CERT_REQUEST", 7);
+    HTTP_AUTH_REQUEST = new WebPlayerEvent("HTTP_AUTH_REQUEST", 8);
+    SCALE_CHANGED = new WebPlayerEvent("SCALE_CHANGED", 9);
+    LOGIN_REQUEST = new WebPlayerEvent("LOGIN_REQUEST", 10);
+    PROGRESS_CHANGED = new WebPlayerEvent("PROGRESS_CHANGED", 11);
+    RECEIVED_TITLE = new WebPlayerEvent("RECEIVED_TITLE", 12);
+    RECEIVED_ICON = new WebPlayerEvent("RECEIVED_ICON", 13);
+    RECEIVED_TOUCH_ICON_URL = new WebPlayerEvent("RECEIVED_TOUCH_ICON_URL", 14);
+    SHOW_CUSTOM_VIEW = new WebPlayerEvent("SHOW_CUSTOM_VIEW", 15);
+    HIDE_CUSTOM_VIEW = new WebPlayerEvent("HIDE_CUSTOM_VIEW", 16);
+    CREATE_WINDOW = new WebPlayerEvent("CREATE_WINDOW", 17);
+    CLOSE_WINDOW = new WebPlayerEvent("CLOSE_WINDOW", 18);
+    REQUEST_FOCUS = new WebPlayerEvent("REQUEST_FOCUS", 19);
+    JS_ALERT = new WebPlayerEvent("JS_ALERT", 20);
+    JS_CONFIRM = new WebPlayerEvent("JS_CONFIRM", 21);
+    JS_PROMPT = new WebPlayerEvent("JS_PROMPT", 22);
+    CONSOLE_MESSAGE = new WebPlayerEvent("CONSOLE_MESSAGE", 23);
+    SHOW_FILE_CHOOSER = new WebPlayerEvent("SHOW_FILE_CHOOSER", 24);
+    GEOLOCATION_PERMISSIONS_SHOW = new WebPlayerEvent("GEOLOCATION_PERMISSIONS_SHOW", 25);
+    DOWNLOAD_START = new WebPlayerEvent("DOWNLOAD_START", 26);
+    SHOULD_OVERRIDE_URL_LOADING = new WebPlayerEvent("SHOULD_OVERRIDE_URL_LOADING", 27);
+    SHOULD_OVERRIDE_KEY_EVENT = new WebPlayerEvent("SHOULD_OVERRIDE_KEY_EVENT", 28);
+    PAGE_COMMIT_VISIBLE = new WebPlayerEvent("PAGE_COMMIT_VISIBLE", 29);
+    FORM_RESUBMISSION = new WebPlayerEvent("FORM_RESUBMISSION", 30);
+    UNHANDLED_KEY_EVENT = new WebPlayerEvent("UNHANDLED_KEY_EVENT", 31);
+    WEBPLAYER_EVENT = new WebPlayerEvent("WEBPLAYER_EVENT", 32);
+    WebPlayerEvent localWebPlayerEvent = new WebPlayerEvent("SHOULD_INTERCEPT_REQUEST", 33);
+    SHOULD_INTERCEPT_REQUEST = localWebPlayerEvent;
+    $VALUES = new WebPlayerEvent[] { PAGE_STARTED, PAGE_FINISHED, ERROR, HTTP_ERROR, PERMISSION_REQUEST, LOAD_RESOUCE, SSL_ERROR, CLIENT_CERT_REQUEST, HTTP_AUTH_REQUEST, SCALE_CHANGED, LOGIN_REQUEST, PROGRESS_CHANGED, RECEIVED_TITLE, RECEIVED_ICON, RECEIVED_TOUCH_ICON_URL, SHOW_CUSTOM_VIEW, HIDE_CUSTOM_VIEW, CREATE_WINDOW, CLOSE_WINDOW, REQUEST_FOCUS, JS_ALERT, JS_CONFIRM, JS_PROMPT, CONSOLE_MESSAGE, SHOW_FILE_CHOOSER, GEOLOCATION_PERMISSIONS_SHOW, DOWNLOAD_START, SHOULD_OVERRIDE_URL_LOADING, SHOULD_OVERRIDE_KEY_EVENT, PAGE_COMMIT_VISIBLE, FORM_RESUBMISSION, UNHANDLED_KEY_EVENT, WEBPLAYER_EVENT, localWebPlayerEvent };
+  }
+}
+
+/* Location:           C:\Users\王银峰\Downloads\dex2jar-2.1\dex-tools-2.1\classes-dex2jar.jar
+ * Qualified Name:     com.unity3d.splash.services.ads.webplayer.WebPlayerEvent
+ * JD-Core Version:    0.6.0
+ */
