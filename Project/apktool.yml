@@ -1,0 +1,31 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: 小米锅巴 - 副本.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- assets/UnityServicesProjectConfiguration.json
+- assets/bin/Data/RuntimeInitializeOnLoads.json
+- assets/bin/Data/ScriptingAssemblies.json
+- assets/bin/Data/data.unity3d
+- assets/bin/Data/sharedassets0.resource
+- assets/bin/Data/sharedassets1.resource
+- assets/bin/Data/unity_app_guid
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '22'
+  targetSdkVersion: '30'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.1
+versionInfo:
+  versionCode: '1'
+  versionName: 1.7.3
